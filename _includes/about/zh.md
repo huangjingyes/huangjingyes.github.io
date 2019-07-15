@@ -3,7 +3,7 @@
 
 <!-- Hey，我是黄晶，人恨话不多，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。 -->
 
-Hey，我是黄晶，人恨话不多，多出没于bug地带，常写出同事难以维护的代码，等地带，绝招尚在开发中。
+Hey，我是黄晶，人恨话不多，多出没于bug地带，常写出同事难以维护的代码，绝招尚在开发中。
 
 职业是java软件工程师，多年电商，微服务开发经验。目前在 [欢聚时代](http://www.huanju.cn//) 写写后台代码，搞搞架构。
 
